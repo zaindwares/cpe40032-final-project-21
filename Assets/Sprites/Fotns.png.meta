@@ -1,0 +1,2263 @@
+fileFormatVersion: 2
+guid: 1add4f6c299db3e409ae718f0d758a2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6904540506267595006
+    second: Fotns_0
+  - first:
+      213: -6721002463687154810
+    second: Fotns_1
+  - first:
+      213: -3983332899101396233
+    second: Fotns_2
+  - first:
+      213: 2030637935070484162
+    second: Fotns_3
+  - first:
+      213: 3077068462021975402
+    second: Fotns_4
+  - first:
+      213: 5509938232523151080
+    second: Fotns_5
+  - first:
+      213: -5799812075204242137
+    second: Fotns_6
+  - first:
+      213: 6807425422951983162
+    second: Fotns_7
+  - first:
+      213: 4763177911495197985
+    second: Fotns_8
+  - first:
+      213: -8092435845302391512
+    second: Fotns_9
+  - first:
+      213: -1806907163774933506
+    second: Fotns_10
+  - first:
+      213: -3949852014234378025
+    second: Fotns_11
+  - first:
+      213: 3362636757796057934
+    second: Fotns_12
+  - first:
+      213: 7577768723410838997
+    second: Fotns_13
+  - first:
+      213: -3485772211575295935
+    second: Fotns_14
+  - first:
+      213: -8016299078721726736
+    second: Fotns_15
+  - first:
+      213: 2413065343928575469
+    second: Fotns_16
+  - first:
+      213: 7635870234792314786
+    second: Fotns_17
+  - first:
+      213: -6401636888085337275
+    second: Fotns_18
+  - first:
+      213: -4345956501106387910
+    second: Fotns_19
+  - first:
+      213: 5978336109867625735
+    second: Fotns_20
+  - first:
+      213: -6228124472671339204
+    second: Fotns_21
+  - first:
+      213: 2407394466818998421
+    second: Fotns_22
+  - first:
+      213: 2238116674615337519
+    second: Fotns_23
+  - first:
+      213: 6477476937901231028
+    second: Fotns_24
+  - first:
+      213: 3377093793461662634
+    second: Fotns_25
+  - first:
+      213: -8061405451885092905
+    second: Fotns_26
+  - first:
+      213: 4413239198216585059
+    second: Fotns_27
+  - first:
+      213: 2928592312257529202
+    second: Fotns_28
+  - first:
+      213: -5349803449907001244
+    second: Fotns_29
+  - first:
+      213: 5614401366943856109
+    second: Fotns_30
+  - first:
+      213: 240291369622326790
+    second: Fotns_31
+  - first:
+      213: -6991855935480992311
+    second: Fotns_32
+  - first:
+      213: 8996688080539840632
+    second: Fotns_33
+  - first:
+      213: 1106349935778251712
+    second: Fotns_34
+  - first:
+      213: 5177696846536855778
+    second: Fotns_35
+  - first:
+      213: -5325948513766322914
+    second: Fotns_36
+  - first:
+      213: -880855943034367668
+    second: Fotns_37
+  - first:
+      213: 2102105829301576620
+    second: Fotns_38
+  - first:
+      213: -9003017115106488182
+    second: Fotns_39
+  - first:
+      213: -6152255922611777510
+    second: Fotns_40
+  - first:
+      213: 8505047961490217212
+    second: Fotns_41
+  - first:
+      213: -4764936943762210790
+    second: Fotns_42
+  - first:
+      213: 4058645031128310426
+    second: Fotns_43
+  - first:
+      213: -7036355347152112163
+    second: Fotns_44
+  - first:
+      213: 5908872761413831924
+    second: Fotns_45
+  - first:
+      213: -8754948507693718988
+    second: Fotns_46
+  - first:
+      213: -9074199948866271980
+    second: Fotns_47
+  - first:
+      213: -4602377171867296814
+    second: Fotns_48
+  - first:
+      213: -4022491924453839579
+    second: Fotns_49
+  - first:
+      213: -6817288255070397192
+    second: Fotns_50
+  - first:
+      213: 8471843600978451330
+    second: Fotns_51
+  - first:
+      213: 4584736242131499244
+    second: Fotns_52
+  - first:
+      213: -7839827963783781380
+    second: Fotns_53
+  - first:
+      213: -6779920456012901266
+    second: Fotns_54
+  - first:
+      213: 6538109097621890150
+    second: Fotns_55
+  - first:
+      213: -291078844783367584
+    second: Fotns_56
+  - first:
+      213: 31785352327750493
+    second: Fotns_57
+  - first:
+      213: -152094938501135256
+    second: Fotns_58
+  - first:
+      213: 7614154244773935455
+    second: Fotns_59
+  - first:
+      213: 5541731775704878148
+    second: Fotns_60
+  - first:
+      213: 599139124521119194
+    second: Fotns_61
+  - first:
+      213: -16909019596354192
+    second: Fotns_62
+  - first:
+      213: 3881544277844023915
+    second: Fotns_63
+  - first:
+      213: 6589755233217056766
+    second: Fotns_64
+  - first:
+      213: -642398069306136200
+    second: Fotns_65
+  - first:
+      213: 2330317706031990870
+    second: Fotns_66
+  - first:
+      213: 9000664563283566571
+    second: Fotns_67
+  - first:
+      213: 1764111844883364142
+    second: Fotns_68
+  - first:
+      213: 3832816516868309950
+    second: Fotns_69
+  - first:
+      213: -5801073687539469483
+    second: Fotns_70
+  - first:
+      213: -7334638537520590252
+    second: Fotns_71
+  - first:
+      213: 2795294889025013484
+    second: Fotns_72
+  - first:
+      213: -504779397802496446
+    second: Fotns_73
+  - first:
+      213: -779902001930136594
+    second: Fotns_74
+  - first:
+      213: 803534182684234523
+    second: Fotns_75
+  - first:
+      213: 8716529984777762418
+    second: Fotns_76
+  - first:
+      213: -7336133483968170379
+    second: Fotns_77
+  - first:
+      213: -4282983155346060697
+    second: Fotns_78
+  - first:
+      213: -6731358359010856046
+    second: Fotns_79
+  - first:
+      213: 3051951361469556717
+    second: Fotns_80
+  - first:
+      213: -7071302987374685752
+    second: Fotns_81
+  - first:
+      213: -3367100183344142586
+    second: Fotns_82
+  - first:
+      213: -4177982711578835001
+    second: Fotns_83
+  - first:
+      213: 5014778574424283295
+    second: Fotns_84
+  - first:
+      213: 6375575800852253736
+    second: Fotns_85
+  - first:
+      213: -8205989857855798021
+    second: Fotns_86
+  - first:
+      213: 7558519787121894628
+    second: Fotns_87
+  - first:
+      213: -9082471856211771557
+    second: Fotns_88
+  - first:
+      213: -813142568344416264
+    second: Fotns_89
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fotns_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 955
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2be60550c32f6541ab8611e77c9a3fd
+      internalID: 6904540506267595006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 957
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4babd4cc1d5ff404ea606f54d9d27585
+      internalID: -6721002463687154810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 957
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c6b907d991d444588f730acacee6a5
+      internalID: -3983332899101396233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 957
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ef2378adf9c2245abd4ab4a8323533
+      internalID: 2030637935070484162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 955
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb6ea215e3c92a43b5209aaf3b2c4e2
+      internalID: 3077068462021975402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 955
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a96a29a40b6d084aa46e88051a8ea24
+      internalID: 5509938232523151080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_6
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 957
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409cabc8aab94b74cb5b76852ea6be82
+      internalID: -5799812075204242137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 955
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a93b8e32d504248ba8909b06b3e177
+      internalID: 6807425422951983162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 956
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbfebbf668a77a4f90db9edafc2741b
+      internalID: 4763177911495197985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_9
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 957
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2878595081e7842a02de8485d68d43
+      internalID: -8092435845302391512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_10
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 956
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147a9472d51536245b80ca6ab2dcea5f
+      internalID: -1806907163774933506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_11
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 955
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7adaf9a317b90947905175191f484a8
+      internalID: -3949852014234378025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 879
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ee89209dc4fff419f8d3c690c19de9
+      internalID: 3362636757796057934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 879
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823c50db52ec75d49ac9a06663ef3c42
+      internalID: 7577768723410838997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 880
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e190e4db17e796d46b2aa8c64a6c8e4e
+      internalID: -3485772211575295935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 880
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f6e1dec4e15b249916b407c774ca0d
+      internalID: -8016299078721726736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_16
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 879
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf90789fbf892848863b7879176f6e2
+      internalID: 2413065343928575469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 880
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936a8597431fef5419d1edefabfa6bc2
+      internalID: 7635870234792314786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_18
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 879
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435569de98d5f3d42a7631c26f0394e4
+      internalID: -6401636888085337275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_19
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 879
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f67c905e7c4184db9bba979f526a83
+      internalID: -4345956501106387910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_20
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 880
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb24fdf4264aa04d9962d39f12cf0a0
+      internalID: 5978336109867625735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_21
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 879
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88a6acd55bd581468d0ec73a9fcb526
+      internalID: -6228124472671339204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_22
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 877
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd48de68de40394f8dfea79edeff755
+      internalID: 2407394466818998421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_23
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 878
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aee00672ed2b674bb7bbad02777bf55
+      internalID: 2238116674615337519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 803
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073014ac87d645c43947cb2298696fa8
+      internalID: 6477476937901231028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 801
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4ed4b8c6e994645969516afffe91ac
+      internalID: 3377093793461662634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 802
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f55fba9e90c0f48822d03813909412
+      internalID: -8061405451885092905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_27
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 803
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3993e880b635324eadba5e26a473f1f
+      internalID: 4413239198216585059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_28
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 803
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e442be879f949499757f0638192cfc
+      internalID: 2928592312257529202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_29
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 803
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36997dc54e3606b409069a552a22ad5a
+      internalID: -5349803449907001244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_30
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 801
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7936f544d48c4f144bbeb20092cca68a
+      internalID: 5614401366943856109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_31
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 802
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79ed18eb5335da48947028c32007146
+      internalID: 240291369622326790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_32
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 803
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8e036d51c2d0844b452638dcf2ce84
+      internalID: -6991855935480992311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_33
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 802
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8acd558f5cb2a942bd7b9347146e39b
+      internalID: 8996688080539840632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_34
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 802
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c0ac37ba885384f85783e7b32b4c92
+      internalID: 1106349935778251712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_35
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 803
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3c04f26e5961a419334ce39a9a1a94
+      internalID: 5177696846536855778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 725
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33c9a5dc4af35341aa78c371eb0b43d
+      internalID: -5325948513766322914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 725
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4083752e3e0ad8e4987fe97e2cdfa683
+      internalID: -880855943034367668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_38
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 725
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c056805819b37e4d932feaa3e605528
+      internalID: 2102105829301576620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_39
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 725
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a71971ee4f2374eb7cb38ad107f513
+      internalID: -9003017115106488182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_40
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 726
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddecc28d15baa834aacc10335b0a28a1
+      internalID: -6152255922611777510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_41
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 726
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b705e7096707d949ad314a69e7fe770
+      internalID: 8505047961490217212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_42
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 725
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702eafb1e45b37a4fad82acdabb06097
+      internalID: -4764936943762210790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_43
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 726
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180fb994b20f2aa4e9d6648a9177c7f3
+      internalID: 4058645031128310426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_44
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 725
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557517e56d427ef4aba8f406572139d7
+      internalID: -7036355347152112163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_45
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 725
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923f19ff7bc7d454183d8b96fde0f556
+      internalID: 5908872761413831924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_46
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 726
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ff143f7b402a74486f6d62442384e0
+      internalID: -8754948507693718988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_47
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 726
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d23f3c369ac144a92767c32b8c24ed
+      internalID: -9074199948866271980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 647
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9579845566e3a624095e57c64a892d8c
+      internalID: -4602377171867296814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 647
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d296bdad5c6200446a2d36aa3433df60
+      internalID: -4022491924453839579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 649
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ce07d4ad3ed5b4d9d94b85fa942038
+      internalID: -6817288255070397192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_51
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 647
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7138f4a33c05441903d22c5208da33
+      internalID: 8471843600978451330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_52
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 649
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67abde820741f0d4d998d2a720895978
+      internalID: 4584736242131499244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_53
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 648
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048a2f64b27a049499309efd2aba8b4b
+      internalID: -7839827963783781380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_54
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 647
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351e5655cedbbd94aaa87a56b80547a2
+      internalID: -6779920456012901266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_55
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 649
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063a2e88250a64a4b8393222f9271ae7
+      internalID: 6538109097621890150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_56
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 648
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74c5a364dcc2884581abbb933d3aa94
+      internalID: -291078844783367584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_57
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 649
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55857175644ac974198728a002b8ec1e
+      internalID: 31785352327750493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_58
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 649
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f832a2e9a8a2d44095402e2f19c0f48
+      internalID: -152094938501135256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_59
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 648
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3ade362d895614d8888d61a2873936
+      internalID: 7614154244773935455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 572
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8a2186518c46f43964a4ad4c8dba34
+      internalID: 5541731775704878148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_61
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 572
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13004c4dc96fc842bb7d0ee9f8702ad
+      internalID: 599139124521119194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_62
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 571
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb19bf2efbea76a489a71c3d42b242c1
+      internalID: -16909019596354192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_63
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 563
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb10ce4de6a90b4288a823901ad37c5
+      internalID: 3881544277844023915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_64
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 563
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0068bcfc99ea0a24fb93908072426b0f
+      internalID: 6589755233217056766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_65
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 571
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37efe68fba49b5b46b2f3345afeeaf4e
+      internalID: -642398069306136200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_66
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 571
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ff77d8ff67ad54ea6ed155660a8d48
+      internalID: 2330317706031990870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_67
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 571
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b70f4b50cd1de4e9bb6f6cb849016e
+      internalID: 9000664563283566571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_68
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 591
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdbe8104855a4b46a6e7aa69ee6d571
+      internalID: 1764111844883364142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_69
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 578
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ec28c010e95984dab1eb6c9263304f
+      internalID: 3832816516868309950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_70
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 598
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16d07508490a974a8a2fc694e461718
+      internalID: -5801073687539469483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_71
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 598
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b4efaf5f2afbb43bc53c10439eb506
+      internalID: -7334638537520590252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 495
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aab32a66674a648a1f521c602cca04
+      internalID: 2795294889025013484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 495
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d358755a857edd4f99dd99dc03b6708
+      internalID: -504779397802496446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_74
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 495
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89d116374a7e2146a6adfefa1fa7a21
+      internalID: -779902001930136594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_75
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 493
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc44e12ee5ecb84d8377468bcb65b8d
+      internalID: 803534182684234523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_76
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 493
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b934f34a7a98af4c8468caf940c70f5
+      internalID: 8716529984777762418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_77
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 521
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca254505b25b9140ae8f5523e3b0019
+      internalID: -7336133483968170379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_78
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 494
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7f51a3c76bf494c96d805842b85b5a
+      internalID: -4282983155346060697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_79
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 494
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281500708516ceb41ae4ff0a8b8cb2c8
+      internalID: -6731358359010856046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_80
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 495
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2881749216dc9094c9b87a4b3c3ace95
+      internalID: 3051951361469556717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_81
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 495
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f63c7823a65434685b257e29127e92
+      internalID: -7071302987374685752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_82
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 525
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475efa3da84d55f4b9aa89bdd01b6d11
+      internalID: -3367100183344142586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_83
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 506
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e48f0927c94a7468a561fe6e7c321f
+      internalID: -4177982711578835001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 429
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23b49eab67b8d54a8c5e3ff1d2a698e
+      internalID: 5014778574424283295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_85
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 430
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b18ed07a1aaf75458a98939709d0c70
+      internalID: 6375575800852253736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_86
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 417
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0557814dffedf9b429fd753a75ba978f
+      internalID: -8205989857855798021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_87
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 429
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3d0daa45303dc47b8face34e1aa3d2
+      internalID: 7558519787121894628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 429
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca7fa8ca6cdc2e4f89fd2a284485c56
+      internalID: -9082471856211771557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotns_89
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 417
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362545d73adde3649b467f24b1b46c0e
+      internalID: -813142568344416264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
